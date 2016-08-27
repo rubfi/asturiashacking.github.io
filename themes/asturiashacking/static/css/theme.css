@@ -36,6 +36,10 @@ body {
   margin-bottom: 1em;
 }
 
+.content-box__header--centered {
+  justify-content: center;
+}
+
 .content-box__logo {
   height: 4em;
   margin-bottom: 1em;
