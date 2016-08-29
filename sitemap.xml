@@ -6,4 +6,12 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/recursos/</loc>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/whoami/</loc>
+  </url>
+  
 </urlset>
