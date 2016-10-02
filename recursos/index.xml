@@ -9,12 +9,15 @@
     <atom:link href="http://replace-this-with-your-hugo-site.com/recursos/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>recursos | AsturiasHacking</title>
+      <title>recursos</title>
       <link>http://replace-this-with-your-hugo-site.com/recursos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://replace-this-with-your-hugo-site.com/recursos/</guid>
-      <description>&lt;ul class=&#34;vlist page__content__grower&#34;&gt;
+      <description>&lt;h1 class=&#34;title&#34;&gt;recursos&lt;/h1&gt;
+
+
+&lt;ul class=&#34;vlist page__content__grower&#34;&gt;
   &lt;li class=&#34;vlist__item&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://trello.com/asturiashacking&#34;&gt;trello&lt;/a&gt;&lt;/li&gt;
   &lt;li class=&#34;vlist__item&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/asturiashacking&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
   &lt;li class=&#34;vlist__item&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://twitter.com/asturiashacking&#34;&gt;twitter&lt;/a&gt;&lt;/li&gt;

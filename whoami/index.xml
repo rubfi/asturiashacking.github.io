@@ -9,12 +9,15 @@
     <atom:link href="http://replace-this-with-your-hugo-site.com/whoami/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>whoami | AsturiasHacking</title>
+      <title>whoami</title>
       <link>http://replace-this-with-your-hugo-site.com/whoami/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://replace-this-with-your-hugo-site.com/whoami/</guid>
-      <description>&lt;ul class=&#34;vlist page__content__grower&#34;&gt;
+      <description>&lt;h1 class=&#34;title&#34;&gt;whoami&lt;/h1&gt;
+
+
+&lt;ul class=&#34;vlist page__content__grower&#34;&gt;
   &lt;li class=&#34;vlist__item&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://twitter.com/sergioalvz_&#34;&gt;@sergioalvz_&lt;/a&gt; (organizador)&lt;/li&gt;
   &lt;li class=&#34;vlist__item&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://twitter.com/mgdepoo&#34;&gt;@mgdepoo&lt;/a&gt; (co-organizador)&lt;/li&gt;
 &lt;/ul&gt;
