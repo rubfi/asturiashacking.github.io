@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <loc>http://asturiashacking.org/</loc>
     <lastmod>2016-09-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/sesiones/2016-09-29-lean-coffee/</loc>
+    <loc>http://asturiashacking.org/sesiones/2016-09-29-lean-coffee/</loc>
     <lastmod>2016-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/recursos/</loc>
+    <loc>http://asturiashacking.org/recursos/</loc>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/whoami/</loc>
+    <loc>http://asturiashacking.org/whoami/</loc>
   </url>
   
 </urlset>
