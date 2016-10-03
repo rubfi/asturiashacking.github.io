@@ -31,7 +31,7 @@
 
 &lt;h2 id=&#34;integración-y-entrega-continua:7daadcee6e6b654ac9066ee8dc53c16d&#34;&gt;Integración y Entrega continua&lt;/h2&gt;
 
-&lt;p&gt;Se comenzó con un repaso general sobre las diferencias entre Integración, Entrega y Despliegue continuo para continuar con un debate sobre las diferentes estrategias y su encaje en la empresa (con herramientas como &lt;a href=&#34;https://jenkins.io/&#34;&gt;Jenkins&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Se comenzó con un repaso general sobre las diferencias entre &lt;em&gt;Integración&lt;/em&gt;, &lt;em&gt;Entrega&lt;/em&gt; y &lt;em&gt;Despliegue&lt;/em&gt; continuo para seguir con un debate sobre las diferentes estrategias y su encaje en la empresa (con herramientas como &lt;a href=&#34;https://jenkins.io/&#34;&gt;Jenkins&lt;/a&gt;).&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;¿Qué necesita una empresa para poder implementar un sistema de despliegue continuo?&lt;/li&gt;
